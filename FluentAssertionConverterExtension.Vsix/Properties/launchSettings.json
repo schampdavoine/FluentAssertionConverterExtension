@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FluentAssertionConverterExtension.Vsix": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\MYB886\\source\\repos\\TestConvertToFluentAssertion"
+    }
+  }
+}
